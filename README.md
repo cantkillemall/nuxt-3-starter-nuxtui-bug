@@ -1,4 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Minimal Starter with @nuxt/devtools & @nuxthq/ui (PNPM)
+
+Bug: When hovering "Home" on the single page, the tooltip works with window width >= 1024px and does not when smaller.
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
